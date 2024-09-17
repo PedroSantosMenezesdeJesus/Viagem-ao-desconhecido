@@ -29,7 +29,7 @@ ELEMENTOS
 
 Nos elementos do menu utilizamos elementos de UI nos botões e o menu, usamos imagens de png para o fundo e a imagem que representa o som, baixamos sons mp3 como musica, além de programar a transição de cor do fundo dos botões de branco para vermelho.
 
-![image](https://github.com/user-attachments/assets/997f4a30-5fdd-4a2e-b566-c8223e71883c)
+![image](https://github.com/user-attachments/assets/5d1efd0d-d2d3-4047-845e-3a7cd3f0b011)
 
 ![image](https://github.com/user-attachments/assets/56bf0155-c9d3-4adb-883f-946b377a81bd)
 
