@@ -44,7 +44,43 @@ Para os personagens usamos modelos grátis da loja do Unity, para o Adoniran usa
 PALETA DE CORES
 
 As cores principais do Adoniran, dos monstros e do trem será azul, cinza, preto e tons de vermelho.
-Azul escuro representa o profissionalismo do personagem por ter ficado até tarde em seu trabalho porque precisaram de sua ajuda e por querer sustentar sua família, os zumbis usam o Azul para representar o profissionalismo do homem vindo o atormentar. Cinza é usado para a representação da neutralidade que o trem aparenta ter. O preto representa o Mal-estar que o personagem está sentido dentro dele Vermelho representa o perigo que os monstros representam para ele que são inimigos internos dele o atormentando
+Azul escuro representa o profissionalismo do personagem por ter ficado até tarde em seu trabalho porque precisaram de sua ajuda e por querer sustentar sua família, os zumbis usam o Azul para representar o profissionalismo do homem vindo o atormentar. Cinza é usado para a representação da neutralidade que o trem aparenta ter. O preto representa o Mal-estar que o personagem está sentido dentro dele Vermelho representa o perigo que os monstros representam para ele que são inimigos internos dele o atormentando. Temos os exemplos de cores:
+
+![azul escuro](https://github.com/user-attachments/assets/6748480e-eebb-4144-ada3-33d6ba18b121)
+
+código hex:
+
+#2A243A
+
+![cinza claro](https://github.com/user-attachments/assets/422bc3a9-5612-4571-9d5d-b8f719dd9575)
+
+código hex:
+
+#909090
+
+![cinza](https://github.com/user-attachments/assets/e068bd47-b24e-45cb-a6ee-d3bc42f17565)
+
+código hex:
+
+#686C73
+
+![marrom](https://github.com/user-attachments/assets/ad0fda43-47f5-4e84-83d6-dbb65bd99f42)
+
+código hex:
+
+#845E3D
+
+![preto](https://github.com/user-attachments/assets/afa026e5-102e-45cc-ae94-5c98eda4ee2d)
+
+código hex:
+
+#000000
+
+![vermelho](https://github.com/user-attachments/assets/fbca5cf1-8197-4329-9422-885e7791cbfa)
+
+código hex:
+
+#FF113D
 
 LINKS DE REFERENCIAS E ASSETS STORE
 
