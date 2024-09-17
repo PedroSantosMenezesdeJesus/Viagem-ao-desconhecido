@@ -39,13 +39,17 @@ Nos elementos do Unity nós temos sete planos, para o chão, teto, paredes e por
 
 Para os obstáculos e as lâmpadas foram usados objetos 3d do unity como cubos e cilindros, usamos materiais vermelhos, e usamos o componente Light para poder colocar luzes nos objetos, entregando a ideia de ser lâmpadas ou objetos sobrenaturais.
 
+![image](https://github.com/user-attachments/assets/0a276702-7f23-43be-8014-2375fb84f4cd)
+
 ![image](https://github.com/user-attachments/assets/88a4c749-9c68-4605-ba11-9751a74e9ec4)
 
-Para os personagens usamos modelos grátis da loja do Unity, para o Adoniran usamos o modelo do “FREE low poly man – RPG Character” e para os monstros usamos o modelo “Skeleton Ghost (FREE)”. Também usamos Physic Material e RigidBody em ambos os personagens, para que eles possuíssem colisão e tivessem gravidade. E por fim usamos Script C# para poder programar a movimentação de Adoniran.
+Para os personagens usamos modelos grátis da loja do Unity, para o Adoniran usamos o modelo do “FREE low poly man – RPG Character” e para os monstros usamos o modelo “Skeleton Ghost (FREE)”. Também usamos Physic Material e RigidBody em ambos os personagens, para que eles possuíssem colisão e tivessem gravidade. E por fim usamos Script C# para poder programar a movimentação de Adoniran, para os corvos usamos os modelos "Living Birds(FREE)", tbm usamos para todos os personagens Scripts C# para criar a movimentação deles e que caso algum obstáculo enconste em Adoniran ele volte para o inicio do vagão.
 
 ![image](https://github.com/user-attachments/assets/949a09fa-8d25-4151-b17f-52a168399003)
 
 ![image](https://github.com/user-attachments/assets/497b0086-05e6-4129-8810-76501d9c46b1)
+
+![image](https://github.com/user-attachments/assets/cdc90b13-f3d9-4b6e-8697-3c30f077f128)
 
 PALETA DE CORES
 
