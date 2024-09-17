@@ -37,7 +37,7 @@ Nos elementos do Unity nós temos sete planos, para o chão, teto, paredes e por
 
 ![image](https://github.com/user-attachments/assets/295c44da-c51c-40de-ac97-91b4ee0c0458)
 
-Para os obstáculos e as lâmpadas foram usados objetos 3d do unity como cubos e cilindros, e usamos o componente Light para poder colocar luzes nos objetos, entregando a ideia de ser lâmpadas ou objetos sobrenaturais.
+Para os obstáculos e as lâmpadas foram usados objetos 3d do unity como cubos e cilindros, usamos materiais vermelhos, e usamos o componente Light para poder colocar luzes nos objetos, entregando a ideia de ser lâmpadas ou objetos sobrenaturais.
 
 ![image](https://github.com/user-attachments/assets/88a4c749-9c68-4605-ba11-9751a74e9ec4)
 
