@@ -48,36 +48,42 @@ Azul escuro representa o profissionalismo do personagem por ter ficado até tard
 
 ![azul escuro](https://github.com/user-attachments/assets/6748480e-eebb-4144-ada3-33d6ba18b121)
 
+cor: azul escuro
 código hex:
 
 #2A243A
 
 ![cinza claro](https://github.com/user-attachments/assets/422bc3a9-5612-4571-9d5d-b8f719dd9575)
 
+cor: cinza claro
 código hex:
 
 #909090
 
 ![cinza](https://github.com/user-attachments/assets/e068bd47-b24e-45cb-a6ee-d3bc42f17565)
 
+cor: cinza
 código hex:
 
 #686C73
 
 ![marrom](https://github.com/user-attachments/assets/5c669ea0-c825-4346-acbe-29cc4976370d)
 
+cor: marrom
 código hex:
 
 #845E3D
 
 ![preto](https://github.com/user-attachments/assets/a3a9d221-6e7f-4b53-974a-24c0e8da37e9)
 
+cor: Preta
 código hex:
 
 #000000
 
 ![vermelho](https://github.com/user-attachments/assets/fbca5cf1-8197-4329-9422-885e7791cbfa)
 
+cor: vermelho
 código hex:
 
 #FF113D
