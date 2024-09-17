@@ -29,13 +29,13 @@ ELEMENTOS
 
 Nos elementos do menu utilizamos elementos de UI nos botões e o menu, usamos imagens de png para o fundo e a imagem que representa o som, baixamos sons mp3 como musica, além de programar a transição de cor do fundo dos botões de branco para vermelho.
 
-![image](https://github.com/user-attachments/assets/446e2e60-fc81-4be0-8656-912dc8c460df)
+
 
 ![image](https://github.com/user-attachments/assets/56bf0155-c9d3-4adb-883f-946b377a81bd)
 
 Nos elementos do Unity nós temos sete planos, para o chão, teto, paredes e portas. Colocamos um Material com uma imagem de um trem para a parede maior e um material cor cinza com aspecto metálico para o chão e o teto. Os dois planos menores foram para usados para ficar ao redor da porta como paredes, usamos um Material diferente com um cinza claro sem tanto o toque metálico. E dois planos ainda menores para ser as portas, usamos um Material com uma imagem de porta de trem para ambas as portas.
 
-![image](https://github.com/user-attachments/assets/295c44da-c51c-40de-ac97-91b4ee0c0458)
+![image](https://github.com/user-attachments/assets/997f4a30-5fdd-4a2e-b566-c8223e71883c)
 
 Para os obstáculos e as lâmpadas foram usados objetos 3d do unity como cubos e cilindros, usamos uma imagem para criar o material usado para os obstáculos, e usamos o componente Light para poder colocar luzes nos objetos, entregando a ideia de ser lâmpadas ou objetos sobrenaturais.
 
