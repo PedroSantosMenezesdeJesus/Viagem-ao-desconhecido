@@ -64,13 +64,13 @@ código hex:
 
 #686C73
 
-![marrom](https://github.com/user-attachments/assets/ad0fda43-47f5-4e84-83d6-dbb65bd99f42)
+![marrom](https://github.com/user-attachments/assets/5c669ea0-c825-4346-acbe-29cc4976370d)
 
 código hex:
 
 #845E3D
 
-![preto](https://github.com/user-attachments/assets/afa026e5-102e-45cc-ae94-5c98eda4ee2d)
+![preto](https://github.com/user-attachments/assets/a3a9d221-6e7f-4b53-974a-24c0e8da37e9)
 
 código hex:
 
