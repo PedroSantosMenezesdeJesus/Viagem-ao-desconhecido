@@ -27,6 +27,8 @@ Adorinan dá o passo, mas o monstro o pega deixando o destino de Adorinan incert
 
 ELEMENTOS
 
+Nos elementos do menu utilizamos elementos de UI nos botões e o menu, usamos imagens de png para o fundo e a imagem que representa o som.
+
 Nos elementos do Unity nós temos sete planos, para o chão, teto, paredes e portas. Colocamos um Material com uma imagem de um trem para a parede maior e um material cor cinza com aspecto metálico para o chão e o teto. Os dois planos menores foram para usados para ficar ao redor da porta como paredes, usamos um Material diferente com um cinza claro sem tanto o toque metálico. E dois planos ainda menores para ser as portas, usamos um Material com uma imagem de porta de trem para ambas as portas.
 
 ![image](https://github.com/user-attachments/assets/295c44da-c51c-40de-ac97-91b4ee0c0458)
