@@ -23,7 +23,7 @@ Quando Adoniran entra no trem, ele percebe que está completamente vazio, então
 
 Quando ele passa pelo interminável vagão cheio de criaturas ele se vê em uma sala escura e algumas criaturas em sua frente, um deles olha fixamente para adorinan e diz: -Isso Tudo foi um sonho de um passo a frente e acorde. 
 
-Adorinan dá o passo mas o monstro o pega deixando o destino de adorinan incerto.
+Adorinan dá o passo, mas o monstro o pega deixando o destino de Adorinan incerto.
 
 ELEMENTOS
 
