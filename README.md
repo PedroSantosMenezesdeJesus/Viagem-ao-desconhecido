@@ -7,9 +7,9 @@ IDEIA
 
 A ideia do nosso jogo foi concebida com a musica O Trem das Onzes e Samba Midnight, sendo por causa do contexto da musica O Trem das Onzes e o evento principal do Samba Midnight.
 
-![image](https://github.com/user-attachments/assets/665e4b37-cf8b-4e63-bb22-e6ca4b3466f3)
+![trem das onze](https://github.com/user-attachments/assets/665e4b37-cf8b-4e63-bb22-e6ca4b3466f3)
 
-![image](https://github.com/user-attachments/assets/ee19c53b-0a00-4edf-bbc7-741cdec630e2)
+![sampa midnight](https://github.com/user-attachments/assets/ee19c53b-0a00-4edf-bbc7-741cdec630e2)
 
 OBJETIVO
 
@@ -29,13 +29,13 @@ ELEMENTOS
 
 Nos elementos do menu utilizamos elementos de UI nos botões e o menu, usamos imagens de png para o fundo e a imagem que representa o som, baixamos sons mp3 como musica, além de programar a transição de cor do fundo dos botões de branco para vermelho.
 
-![image](https://github.com/user-attachments/assets/5d1efd0d-d2d3-4047-845e-3a7cd3f0b011)
+![materiais menu](https://github.com/user-attachments/assets/5d1efd0d-d2d3-4047-845e-3a7cd3f0b011)
 
-![image](https://github.com/user-attachments/assets/56bf0155-c9d3-4adb-883f-946b377a81bd)
+![menu](https://github.com/user-attachments/assets/56bf0155-c9d3-4adb-883f-946b377a81bd)
 
 Nos elementos do Unity nós temos sete planos, para o chão, teto, paredes e portas. Colocamos um Material com uma imagem de um trem para a parede maior e um material cor cinza com aspecto metálico para o chão, o teto usamos o material metalico na primeira cena e na segunda cena usamos um material completamente preto. Os dois planos menores foram para usados para ficar ao redor da porta como paredes, usamos um Material diferente com um cinza claro sem tanto o toque metálico. E dois planos ainda menores para ser as portas, usamos um Material com uma imagem de porta de trem para ambas as portas.
 
-![image](https://github.com/user-attachments/assets/6a134bcf-a03f-468d-908a-f45a236adff5)
+![elementos](https://github.com/user-attachments/assets/6a134bcf-a03f-468d-908a-f45a236adff5)
 
 Para os obstáculos e as lâmpadas foram usados objetos 3d do unity como cubos e cilindros, usamos uma imagem para criar o material usado para os obstáculos, e usamos o componente Light para poder colocar luzes nos objetos, entregando a ideia de ser lâmpadas ou objetos sobrenaturais. Para os buracos foram utilizados o material completamente preto dando a empressão de um vazio.
 
