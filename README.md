@@ -53,7 +53,7 @@ Para os personagens usamos modelos grátis da loja do Unity, para o Adoniran usa
 
 ![image](https://github.com/user-attachments/assets/cdc90b13-f3d9-4b6e-8697-3c30f077f128)
 
-A musíca e os efeitos sonoros do passo e do grito foram arquivos mp3, baixamos a musíca no youtube e os sons no Mp3Conveter, usamos "audioSorce.play()" para tocar os audíos.
+A musíca e os efeitos sonoros do passo e do grito foram arquivos mp3, baixamos a musíca no Mp3Convetor e os sons no assest store Footsteps - Essentials , usamos "audioSorce.play()" para tocar os audíos.
 
 PALETA DE CORES
 
@@ -119,5 +119,7 @@ LINKS DE REFERENCIAS E ASSETS STORE
 [modelo FREE low poly man – RPG Character](https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/free-low-poly-human-rpg-character-219979)
 
 [modelo 3d dos corvos](https://assetstore.unity.com/packages/3d/characters/animals/birds/living-birds-15649)
+
+[footstep - essentials](https://assetstore.unity.com/packages/audio/sound-fx/foley/footsteps-essentials-189879)
 
 [Projeto completo](https://drive.google.com/file/d/1mxUck9xPSLTCswfgsNSqbTMQfLSZ8iLb/view?usp=drive_link)
