@@ -55,6 +55,8 @@ Para os personagens usamos modelos grátis da loja do Unity, para o Adoniran usa
 
 A musíca e os efeitos sonoros do passo e do grito foram arquivos mp3, baixamos a musíca no Mp3Convetor e os sons no assest store Footsteps - Essentials , usamos "audioSorce.play()" para tocar os audíos.
 
+![Footsteps](https://github.com/user-attachments/assets/84350566-dfde-4802-a7a5-d41d722cbd84)
+
 PALETA DE CORES
 
 As cores principais do Adoniran, dos monstros e do trem será azul, cinza, preto e tons de vermelho.
