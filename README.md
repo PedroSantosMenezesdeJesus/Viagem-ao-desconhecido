@@ -53,6 +53,8 @@ Para os personagens usamos modelos grátis da loja do Unity, para o Adoniran usa
 
 ![image](https://github.com/user-attachments/assets/cdc90b13-f3d9-4b6e-8697-3c30f077f128)
 
+A musíca e os efeitos sonoros do passo e do grito foram arquivos mp3, baixamos a musíca no youtube e os sons no Mp3Conveter, usamos "audioSorce.play()" para tocar os audíos.
+
 PALETA DE CORES
 
 As cores principais do Adoniran, dos monstros e do trem será azul, cinza, preto e tons de vermelho.
@@ -107,6 +109,10 @@ código hex:
 #FF113D
 
 LINKS DE REFERENCIAS E ASSETS STORE
+
+[Sampa Midnight Instrumental](https://youtu.be/11ItVm6ZWdM?si=T9-wqq7uuSJTHX0-)
+
+[Trem das Onze Intrumental](https://youtu.be/OoEgWsUQgaU?si=8sKqv3ZvsrWKxlSa)
 
 [modelo Skeleton Ghost (FREE)](https://assetstore.unity.com/packages/3d/characters/creatures/skeleton-ghost-free-226070)
 
