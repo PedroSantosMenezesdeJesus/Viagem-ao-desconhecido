@@ -57,6 +57,10 @@ A musíca e os efeitos sonoros do passo e do grito foram arquivos mp3, baixamos 
 
 ![Footsteps](https://github.com/user-attachments/assets/84350566-dfde-4802-a7a5-d41d722cbd84)
 
+SCRIPTS
+
+os scripts do nosso projeto servem para a movimentação, para os inimigos olharem para o personagem e para que caso ocorra alguma colisão aconteça algum evento.
+
 PALETA DE CORES
 
 As cores principais do Adoniran, dos monstros e do trem será azul, cinza, preto e tons de vermelho.
