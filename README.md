@@ -1,11 +1,11 @@
 # Viagem-ao-desconhecido
 Projeto voltado para o foco da escola Etec Basilides de Godoy chamado São Paulo 470 anos.
 
-por: Isaque Dias, Kauan de Carlo Merida, Matheus Henrique e Pedro Santos
+Por: Isaque Dias, Kauan de Carlo Merida, Matheus Henrique e Pedro Santos
 
 IDEIA
 
-A ideia do nosso jogo foi concebida com a musica O Trem das Onzes e Samba Midnight, sendo por causa do contexto da musica O Trem das Onzes e o evento principal do Samba Midnight.
+A ideia do nosso jogo foi concebida com a música O Trem das Onzes e Samba Midnight, sendo por causa do contexto da música O Trem das Onzes e o evento principal do Samba Midnight.
 
 ![trem das onze](https://github.com/user-attachments/assets/665e4b37-cf8b-4e63-bb22-e6ca4b3466f3)
 
@@ -13,7 +13,7 @@ A ideia do nosso jogo foi concebida com a musica O Trem das Onzes e Samba Midnig
 
 OBJETIVO
 
-o intuito do nosso projeto é demonstrar como um trabalho obsessivo pode consumir a vida de uma pessoa na cidade de São Paulo, conscientizando sobre o desgaste emocional e físico que muitos trabalhadores sofrem, principalmente em cidades urbanas grandes como São Paulo.
+O intuito do nosso projeto é demonstrar como um trabalho obsessivo pode consumir a vida de uma pessoa na cidade de São Paulo, conscientizando sobre o desgaste emocional e físico que muitos trabalhadores sofrem, principalmente em cidades urbanas grandes como São Paulo.
 
 HISTÓRIA
 
@@ -23,21 +23,21 @@ Quando Adoniran entra no trem, ele percebe que está completamente vazio, então
 
 Quando ele passa pelo interminável vagão cheio de criaturas ele se vê em uma sala escura e algumas criaturas em sua frente, um deles olha fixamente para adorinan e diz: -Isso Tudo foi um sonho de um passo a frente e acorde. 
 
-Adorinan dá o passo, mas o monstro o pega deixando o destino de Adorinan incerto.
+Adorinan dá o passo, mas o monstro o capturou deixando o destino de Adorinan incerto.
 
 ELEMENTOS
 
-Nos elementos do menu utilizamos elementos de UI nos botões e o menu, usamos imagens de png para o fundo e a imagem que representa o som, baixamos sons mp3 como musica, além de programar a transição de cor do fundo dos botões de branco para vermelho.
+Nos elementos do menu utilizamos elementos de UI nos botões e o menu, usamos imagens de png para o fundo e a imagem que representa o som, baixamos sons mp3 como música, além de programar a transição de cor do fundo dos botões de branco para vermelho.
 
 ![materiais menu](https://github.com/user-attachments/assets/5d1efd0d-d2d3-4047-845e-3a7cd3f0b011)
 
 ![menu](https://github.com/user-attachments/assets/56bf0155-c9d3-4adb-883f-946b377a81bd)
 
-Nos elementos do Unity nós temos sete planos, para o chão, teto, paredes e portas. Colocamos um Material com uma imagem de um trem para a parede maior e um material cor cinza com aspecto metálico para o chão, o teto usamos o material metalico na primeira cena e na segunda cena usamos um material completamente preto. Os dois planos menores foram para usados para ficar ao redor da porta como paredes, usamos um Material diferente com um cinza claro sem tanto o toque metálico. E dois planos ainda menores para ser as portas, usamos um Material com uma imagem de porta de trem para ambas as portas.
+Nos elementos do Unity nós temos sete planos, para o chão, teto, paredes e portas. Colocamos um Material com uma imagem de um trem para a parede maior e um material cor cinza com aspecto metálico para o chão, o teto usamos o material metálico na primeira cena e na segunda cena usamos um material completamente preto. Os dois planos menores foram para usados para ficar ao redor da porta como paredes, usamos um Material diferente com um cinza-claro sem tanto o toque metálico. E dois planos ainda menores para ser as portas, usamos um Material com uma imagem de porta de trem para ambas as portas.
 
 ![elementos](https://github.com/user-attachments/assets/6a134bcf-a03f-468d-908a-f45a236adff5)
 
-Para os obstáculos e as lâmpadas foram usados objetos 3d do unity como cubos e cilindros, usamos uma imagem para criar o material usado para os obstáculos, e usamos o componente Light para poder colocar luzes nos objetos, entregando a ideia de ser lâmpadas ou objetos sobrenaturais. Para os buracos foram utilizados o material completamente preto dando a empressão de um vazio.
+Para os obstáculos e as lâmpadas foram usados objetos 3d do unity como cubos e cilindros, usamos uma imagem para criar o material usado para os obstáculos, e usamos o componente Light para poder colocar luzes nos objetos, entregando a ideia de ser lâmpadas ou objetos sobrenaturais. Para os buracos foram utilizados o material completamente preto dando a impressão de um vazio.
 
 Imagem dos obstáculos:
 
@@ -45,7 +45,7 @@ Imagem dos obstáculos:
 
 ![image](https://github.com/user-attachments/assets/d1ef32d1-db81-43a6-b064-43fb85a2baaa)
 
-Para os personagens usamos modelos grátis da loja do Unity, para o Adoniran usamos o modelo do “FREE low poly man – RPG Character” e para os monstros usamos o modelo “Skeleton Ghost (FREE)”. Também usamos Physic Material e RigidBody em ambos os personagens, para que eles possuíssem colisão e tivessem gravidade. E por fim usamos Script C# para poder programar a movimentação de Adoniran, para os corvos usamos os modelos "Living Birds(FREE)", tbm usamos para todos os personagens Scripts C# para criar a movimentação deles e que caso algum obstáculo enconste em Adoniran ele volte para o inicio do vagão.
+Para os personagens usamos modelos grátis da loja do Unity, para o Adoniran usamos o modelo do “FREE low poly man – RPG Character” e para os monstros usamos o modelo “Skeleton Ghost (FREE)”. Também usamos Physic Material e RigidBody em ambos os personagens, para que eles possuíssem colisão e tivessem gravidade. E por fim usamos Script C# para poder programar a movimentação de Adoniran, para os corvos usamos os modelos "Living Birds(FREE)", tbm usamos para todos os personagens Scripts C# para criar a movimentação deles e que caso algum obstáculo enconste em Adoniran ele volte para o início do vagão.
 
 ![image](https://github.com/user-attachments/assets/949a09fa-8d25-4151-b17f-52a168399003)
 
@@ -53,18 +53,18 @@ Para os personagens usamos modelos grátis da loja do Unity, para o Adoniran usa
 
 ![image](https://github.com/user-attachments/assets/cdc90b13-f3d9-4b6e-8697-3c30f077f128)
 
-A musíca e os efeitos sonoros do passo e do grito foram arquivos mp3, baixamos a musíca no Mp3Convetor e os sons no assest store Footsteps - Essentials , usamos "audioSorce.play()" para tocar os audíos.
+A música e os efeitos sonoros do passo e do grito foram arquivos mp3, baixamos a música no Mp3Convetor e os sons no assest store Footsteps - Essentials, usamos "audioSorce.play()" para tocar os audíos.
 
 ![Footsteps](https://github.com/user-attachments/assets/84350566-dfde-4802-a7a5-d41d722cbd84)
 
 SCRIPTS
 
-os scripts do nosso projeto servem para a movimentação, para os inimigos olharem para o personagem e para que caso ocorra alguma colisão aconteça algum evento.
+Os scripts do nosso projeto servem para a movimentação, para os inimigos olharem para o personagem e para que caso ocorra alguma colisão aconteça algum evento.
 
 PALETA DE CORES
 
 As cores principais do Adoniran, dos monstros e do trem será azul, cinza, preto e tons de vermelho.
-Azul escuro representa o profissionalismo do personagem por ter ficado até tarde em seu trabalho porque precisaram de sua ajuda e por querer sustentar sua família, os zumbis usam o Azul para representar o profissionalismo do homem vindo o atormentar. Cinza é usado para a representação da neutralidade que o trem aparenta ter. O preto representa o Mal-estar que o personagem está sentido dentro dele Vermelho representa o perigo que os monstros representam para ele que são inimigos internos dele o atormentando. Temos os exemplos de cores:
+Azul-escuro representa o profissionalismo do personagem por ficar até tarde em seu trabalho porque precisaram de sua ajuda e por querer sustentar sua família, os zumbis usam o Azul para representar o profissionalismo do homem vindo o atormentar. Cinza é usado para a representação da neutralidade que o trem aparenta ter. O preto representa o Mal-estar que o personagem está sentido dentro dele Vermelho representa o perigo que os monstros representam para ele que são inimigos internos dele o atormentando. Temos os exemplos de cores:
 
 ![azul escuro](https://github.com/user-attachments/assets/6748480e-eebb-4144-ada3-33d6ba18b121)
 
