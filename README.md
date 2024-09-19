@@ -128,6 +128,6 @@ LINKS DE REFERENCIAS E ASSETS STORE
 
 [footstep - essentials](https://assetstore.unity.com/packages/audio/sound-fx/foley/footsteps-essentials-189879)
 
-[video do jogo]([https://drive.google.com/file/d/1RsIauDSYNOraNv735L36e_ENo8dDptZV/view?usp=drive_link](https://drive.google.com/file/d/1dFLrfxNBPGCScoDT0DsRHkfPxje9du8C/view?usp=sharing))
+[video do jogo](https://drive.google.com/file/d/1dFLrfxNBPGCScoDT0DsRHkfPxje9du8C/view?usp=sharing)
 
 [projeto completo](https://drive.google.com/file/d/17siYXt2FRVy5yzcm3_fSAh-YjbxZbwL5/view?usp=sharing)
