@@ -130,4 +130,4 @@ LINKS DE REFERENCIAS E ASSETS STORE
 
 [video do jogo](https://drive.google.com/file/d/1dFLrfxNBPGCScoDT0DsRHkfPxje9du8C/view?usp=sharing)
 
-[projeto completo](https://drive.google.com/file/d/17siYXt2FRVy5yzcm3_fSAh-YjbxZbwL5/view?usp=sharing)
+[projeto completo](https://drive.google.com/file/d/12-BhjbnFWjLGGt9O30kTfe7cpHk_nmEb/view?usp=drive_link)
