@@ -45,7 +45,7 @@ Imagem dos obstáculos:
 
 ![image](https://github.com/user-attachments/assets/d1ef32d1-db81-43a6-b064-43fb85a2baaa)
 
-Para os personagens usamos modelos grátis da loja do Unity, para o Adoniran usamos o modelo do “FREE low poly man – RPG Character” e para os monstros usamos o modelo “Skeleton Ghost (FREE)”. Também usamos Physic Material e RigidBody em ambos os personagens, para que eles possuíssem colisão e tivessem gravidade. E por fim usamos Script C# para poder programar a movimentação de Adoniran, para os corvos usamos os modelos "Living Birds(FREE)", tbm usamos para todos os personagens Scripts C# para criar a movimentação deles e que caso algum obstáculo enconste em Adoniran ele volte para o início do vagão.
+Para os personagens usamos modelos grátis da loja do Unity, para o Adoniran usamos o modelo do “FREE low poly man – RPG Character” e para os monstros usamos o modelo “Skeleton Ghost (FREE)”. Também usamos Physic Material e RigidBody em ambos os personagens, para eles possuirem colisão e tivessem gravidade. E por fim usamos Script C# para poder programar a movimentação de Adoniran, para os corvos usamos os modelos "Living Birds(FREE)", tbm usamos para todos os personagens Scripts C# para criar a movimentação deles e que caso algum obstáculo enconste em Adoniran ele volte para o início do vagão.
 
 ![image](https://github.com/user-attachments/assets/949a09fa-8d25-4151-b17f-52a168399003)
 
