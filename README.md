@@ -19,15 +19,15 @@ HISTÓRIA
 
 Adoniran Barbosa é um assistente de loja que está muito cansado e muito atrasado para voltar para casa e ver sua família, era 11 horas da noite na estação da luz e ele tinha que pegar um trem para consegui voltar para casa. Mas o trem possuía um ar macabro, uma aparência antiquada, recebendo assim vários boatos, superstições e mitos. Porém, Adoniran não iria acreditar em mitos sem fundamentos, ele era um homem sério, profissional e pai de família, não teria o motivo de temer um velho trem e se atrasar para ver seus filhos, então ele entra no trem estranho.
 
-Quando Adoniran entra no trem, ele percebe que está completamente vazio, então no caminho de espera Adoniran vai ao outro vagão para dormir. Quando ele atravessa a porta ele percebe que o trem mudou de aparência, agora com uma aparência nada amigável, com buracos no chão além de objetos espalhados no trem. O homem vê monstros à sua frente, criaturas com uma aparência cadavérica e roupas rasgadas e mofadas.
+Quando Adoniran entra no trem, ele percebe que está completamente vazio, então no caminho de espera Adoniran vai ao outro vagão para dormir. Quando ele atravessa a porta, ele percebe que o trem mudou de aparência, agora com uma aparência nada amigável, com buracos no chão além de objetos espalhados no trem. O homem vê monstros à sua frente, criaturas com uma aparência cadavérica e roupas rasgadas e mofadas.
 
-Quando ele passa pelo interminável vagão cheio de criaturas ele se vê em uma sala escura e algumas criaturas em sua frente, um deles olha fixamente para Adorinan e diz: -Isso tudo foi um sonho, nada é real. Dê um passo a frente.
+Quando ele passa pelo interminável vagão cheio de criaturas, ele se vê em uma sala escura e algumas criaturas em sua frente, um deles olha fixamente para Adorinan e diz: -Isso tudo foi um sonho, nada é real. Dê um passo a frente.
 
-Adorinan dá o passo, mas o monstro o capturou deixando o destino de Adorinan incerto.
+Adorinan dá o passo, mas o monstro o capturou, deixando o destino de Adorinan incerto.
 
 ELEMENTOS
 
-No menu utilizamos elementos UI nos botões e textos, usamos imagens para o fundo e icone de volume para habilitar o som, baixamos audios para elementos do jogo como passos ou trilha sonora, além de programar a transição de cor do fundo dos botões de branco para vermelho.
+No menu utilizamos elementos UI nos botões e textos, usamos imagens para o fundo e ícone de volume para habilitar o som, baixamos áudios para elementos do jogo como passos ou trilha sonora, além de programar a transição de cor do fundo dos botões de branco para vermelho.
 
 ![materiais menu](https://github.com/user-attachments/assets/5d1efd0d-d2d3-4047-845e-3a7cd3f0b011)
 
@@ -37,7 +37,7 @@ Dos elementos do Unity foram usados planos, para o chão, teto, paredes e portas
 
 ![elementos](https://github.com/user-attachments/assets/6a134bcf-a03f-468d-908a-f45a236adff5)
 
-Para os obstáculos e as lâmpadas foram usados objetos 3d do unity como cubos e cilindros, usamos uma imagem para criar o material usado para os obstáculos, e usamos o componente Light para poder colocar luzes nos objetos, entregando a ideia de ser lâmpadas ou objetos sobrenaturais. Para os buracos foram utilizados o material completamente preto dando a impressão de um vazio.
+Para os obstáculos e as lâmpadas foram usados objetos 3d do Unity como cubos e cilindros, usamos uma imagem para criar o material usado para os obstáculos, e usamos o componente Light para poder colocar luzes nos objetos, entregando a ideia de ser lâmpadas ou objetos sobrenaturais. Para os buracos foram utilizados o material completamente preto dando a impressão de um vazio.
 
 Imagem dos obstáculos:
 
@@ -45,7 +45,7 @@ Imagem dos obstáculos:
 
 ![image](https://github.com/user-attachments/assets/d1ef32d1-db81-43a6-b064-43fb85a2baaa)
 
-Para os personagens usamos modelos grátis da loja do Unity, para o Adoniran usamos o modelo do “FREE low poly man – RPG Character” e para os monstros usamos o modelo “Skeleton Ghost (FREE)”. Também usamos Physic Material e RigidBody em ambos os personagens, para eles possuirem colisão e tivessem gravidade. E por fim usamos Script C# para poder programar a movimentação de Adoniran, para os corvos usamos os modelos "Living Birds(FREE)", tbm usamos para todos os personagens Scripts C# para criar a movimentação deles e que caso algum obstáculo enconste em Adoniran ele volte para o início do vagão.
+Para os personagens usamos modelos grátis da loja do Unity, para o Adoniran usamos o modelo do “FREE low poly man – RPG Character” e para os monstros usamos o modelo “Skeleton Ghost (FREE)”. Também usamos Physic Material e RigidBody em ambos os personagens, para eles possuirem colisão e tivessem gravidade. E por fim usamos Script C# para poder programar a movimentação de Adoniran, para os corvos usamos os modelos "Living Birds(FREE)", tbm usamos para todos os personagens Scripts C# para criar a movimentação deles e caso algum obstáculo encoste em Adoniran ele volte para o início do vagão.
 
 ![image](https://github.com/user-attachments/assets/949a09fa-8d25-4151-b17f-52a168399003)
 
@@ -53,18 +53,18 @@ Para os personagens usamos modelos grátis da loja do Unity, para o Adoniran usa
 
 ![image](https://github.com/user-attachments/assets/cdc90b13-f3d9-4b6e-8697-3c30f077f128)
 
-A música e os efeitos sonoros do passo e do grito foram arquivos mp3, baixamos a música no Mp3Convetor e os sons no assest store Footsteps - Essentials, usamos "audioSorce.play()" para tocar os audíos.
+A música e os efeitos sonoros do passo e do grito foram arquivos MP3, baixamos a música no Mp3Convetor e os sons no assest store Footsteps - Essentials, usamos "audioSorce.play()" para tocar os áudios.
 
 ![Footsteps](https://github.com/user-attachments/assets/84350566-dfde-4802-a7a5-d41d722cbd84)
 
 SCRIPTS
 
-Os scripts do nosso projeto servem para a movimentação, para os inimigos olharem para o personagem, para que caso ocorra alguma colisão aconteça algum evento e para manipular o som. assim controlamos todos os aspectos de colisão, menu, som para passos e gritos e a movimentação e do pulo.
+Os scripts do nosso projeto servem para a movimentação, para os inimigos olharem para o personagem, para que caso ocorra alguma colisão aconteça algum evento e para manipular o som e assim controlamos todos os aspectos de colisão, menu, som para passos e gritos e a movimentação e do pulo.
 
 PALETA DE CORES
 
 As cores principais do Adoniran, dos monstros e do trem será azul, cinza, preto e tons de vermelho.
-Azul-escuro representa o profissionalismo do personagem por ficar até tarde em seu trabalho porque precisaram de sua ajuda e por querer sustentar sua família, os zumbis usam o Azul para representar o profissionalismo do homem vindo o atormentar. Cinza é usado para a representação da neutralidade que o trem aparenta ter. O preto representa o Mal-estar que o personagem está sentido dentro dele Vermelho representa o perigo que os monstros representam para ele que são inimigos internos dele o atormentando. Temos os exemplos de cores:
+Azul-escuro representa o profissionalismo do personagem por ficar até tarde em seu trabalho porque precisaram de sua ajuda e por querer sustentar sua família, os zumbis usam o azul para representar o profissionalismo do homem vindo o atormentar, o cinza é usado para a representação da neutralidade que o trem aparenta ter, o preto representa o Mal-estar que o personagem está sentindo dentro dele e o vermelho representa o perigo que os monstros representam para ele que são inimigos internos dele o atormentando. Temos os exemplos de cores:
 
 ![azul escuro](https://github.com/user-attachments/assets/6748480e-eebb-4144-ada3-33d6ba18b121)
 
@@ -128,6 +128,6 @@ LINKS DE REFERENCIAS E ASSETS STORE
 
 [footstep - essentials](https://assetstore.unity.com/packages/audio/sound-fx/foley/footsteps-essentials-189879)
 
-[video do jogo](https://drive.google.com/file/d/1RsIauDSYNOraNv735L36e_ENo8dDptZV/view?usp=drive_link)
+[video do jogo]([https://drive.google.com/file/d/1RsIauDSYNOraNv735L36e_ENo8dDptZV/view?usp=drive_link](https://drive.google.com/file/d/1dFLrfxNBPGCScoDT0DsRHkfPxje9du8C/view?usp=sharing))
 
 [projeto completo](https://drive.google.com/file/d/17siYXt2FRVy5yzcm3_fSAh-YjbxZbwL5/view?usp=sharing)
