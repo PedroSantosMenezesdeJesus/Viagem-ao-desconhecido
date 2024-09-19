@@ -19,21 +19,21 @@ HISTÓRIA
 
 Adoniran Barbosa é um assistente de loja que está muito cansado e muito atrasado para voltar para casa e ver sua família, era 11 horas da noite na estação da luz e ele tinha que pegar um trem para consegui voltar para casa. Mas o trem possuía um ar macabro, uma aparência antiquada, recebendo assim vários boatos, superstições e mitos. Porém, Adoniran não iria acreditar em mitos sem fundamentos, ele era um homem sério, profissional e pai de família, não teria o motivo de temer um velho trem e se atrasar para ver seus filhos, então ele entra no trem estranho.
 
-Quando Adoniran entra no trem, ele percebe que está completamente vazio, então no caminho de espera Adoniran acaba caindo no sono. Quando ele acorda percebe que o trem mudou de aparência, agora com uma aparência nada amigável, com buracos no chão além de objetos espalhados no trem. O homem vê monstros à sua frente, criaturas com uma aparência cadavérica e roupas rasgadas e mofadas. 
+Quando Adoniran entra no trem, ele percebe que está completamente vazio, então no caminho de espera Adoniran vai ao outro vagão para dormir. Quando ele atravessa a porta ele percebe que o trem mudou de aparência, agora com uma aparência nada amigável, com buracos no chão além de objetos espalhados no trem. O homem vê monstros à sua frente, criaturas com uma aparência cadavérica e roupas rasgadas e mofadas.
 
-Quando ele passa pelo interminável vagão cheio de criaturas ele se vê em uma sala escura e algumas criaturas em sua frente, um deles olha fixamente para adorinan e diz: -Isso Tudo foi um sonho de um passo a frente e acorde. 
+Quando ele passa pelo interminável vagão cheio de criaturas ele se vê em uma sala escura e algumas criaturas em sua frente, um deles olha fixamente para Adorinan e diz: -Isso tudo foi um sonho, nada é real. Dê um passo a frente.
 
 Adorinan dá o passo, mas o monstro o capturou deixando o destino de Adorinan incerto.
 
 ELEMENTOS
 
-Nos elementos do menu utilizamos elementos de UI nos botões e o menu, usamos imagens de png para o fundo e a imagem que representa o som, baixamos sons mp3 como música, além de programar a transição de cor do fundo dos botões de branco para vermelho.
+No menu utilizamos elementos UI nos botões e textos, usamos imagens para o fundo e icone de volume para habilitar o som, baixamos audios para elementos do jogo como passos ou trilha sonora, além de programar a transição de cor do fundo dos botões de branco para vermelho.
 
 ![materiais menu](https://github.com/user-attachments/assets/5d1efd0d-d2d3-4047-845e-3a7cd3f0b011)
 
 ![menu](https://github.com/user-attachments/assets/56bf0155-c9d3-4adb-883f-946b377a81bd)
 
-Nos elementos do Unity nós temos sete planos, para o chão, teto, paredes e portas. Colocamos um Material com uma imagem de um trem para a parede maior e um material cor cinza com aspecto metálico para o chão, o teto usamos o material metálico na primeira cena e na segunda cena usamos um material completamente preto. Os dois planos menores foram para usados para ficar ao redor da porta como paredes, usamos um Material diferente com um cinza-claro sem tanto o toque metálico. E dois planos ainda menores para ser as portas, usamos um Material com uma imagem de porta de trem para ambas as portas.
+Dos elementos do Unity foram usados planos, para o chão, teto, paredes e portas. Criamos um Material com uma imagem de um trem para o cenário e diversos materiais com aspecto metálico, no teto usamos uma imagem de um material metálico. Os dois planos menores foram para usados para ficar ao redor da porta como paredes, usamos um Material diferente com um cinza metálico e dois planos ainda menores para ser as portas, usamos um Material com uma imagem de porta de trem para ambas as portas.
 
 ![elementos](https://github.com/user-attachments/assets/6a134bcf-a03f-468d-908a-f45a236adff5)
 
@@ -130,6 +130,4 @@ LINKS DE REFERENCIAS E ASSETS STORE
 
 [video do jogo](https://drive.google.com/file/d/1RsIauDSYNOraNv735L36e_ENo8dDptZV/view?usp=drive_link)
 
-[Projeto completo](https://drive.google.com/file/d/11T4cMZ-t23-nuwMIB_LPuYa8G7c37Wnc/view?usp=drive_link)
-
-[projeto completo, é o mesmo caso tenha problema no primeiro link](https://drive.google.com/file/d/17siYXt2FRVy5yzcm3_fSAh-YjbxZbwL5/view?usp=sharing)
+[projeto completo](https://drive.google.com/file/d/17siYXt2FRVy5yzcm3_fSAh-YjbxZbwL5/view?usp=sharing)
