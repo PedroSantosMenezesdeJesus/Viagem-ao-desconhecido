@@ -59,7 +59,7 @@ A música e os efeitos sonoros do passo e do grito foram arquivos mp3, baixamos 
 
 SCRIPTS
 
-Os scripts do nosso projeto servem para a movimentação, para os inimigos olharem para o personagem e para que caso ocorra alguma colisão aconteça algum evento.
+Os scripts do nosso projeto servem para a movimentação, para os inimigos olharem para o personagem, para que caso ocorra alguma colisão aconteça algum evento e para manipular o som. assim controlamos todos os aspectos de colisão, menu, som para passos e gritos e a movimentação e do pulo.
 
 PALETA DE CORES
 
